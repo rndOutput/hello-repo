@@ -1,8 +1,8 @@
 hello-repo
 ==========
 
-Ok, I uploaded test canvas project.
+Still farting around
 
-Neat, git
+Trying to learn so I can get cereal
 
 
